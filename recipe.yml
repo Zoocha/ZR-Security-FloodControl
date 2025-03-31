@@ -1,0 +1,8 @@
+name: 'Zoocha Security Flood Control Recipe'
+description: 'Provides Security related modules for Zoocha.'
+type: 'Feature'
+
+install:
+  - flood_control
+config:
+  strict: false
